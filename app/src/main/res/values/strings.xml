@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Linear Layout</string>
+    <string name="about">About_Page</string>
+    <string name="aboutUs">Please fill this information</string>
+    <string name="enterName">Enter your name</string>
+    <string name="enterAge">Enter your age</string>
+    <string name="enterAddress">Enter your address</string>
+    <string name="enterMail">Enter your gmail</string>
+    <string name="enterMailPassword">Enter your password</string>
+    <string name="submit">Submit</string>
+</resources>
